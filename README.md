@@ -1,0 +1,4 @@
+shiny-tribble
+=============
+
+.gitignore
